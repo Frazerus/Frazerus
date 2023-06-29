@@ -1,7 +1,7 @@
 Hi, I’m @Frazerus, 
 
 
-I’m interested in Game Development and learning new stuff overall and am currently creating a game using Unity and C#, aswell as some WebDev things with Symfony and Node.js. 
+I’m interested in Game Development and learning new stuff overall. I'm currently enrolled in a Masters Degree towards Game Dev and working on a game using Unreal Engine 5. I also work as a C# software developer.
 
 <!---
 Frazerus/Frazerus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
